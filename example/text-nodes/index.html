@@ -14,7 +14,8 @@
   <script>
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
-        .jsonUrl('../datasets/miserables.json')
+//        .jsonUrl('../datasets/miserables.json')
+        .jsonUrl('test.json')
         .nodeAutoColorBy('group')
         .nodeThreeObject(node => {
           const sprite = new SpriteText(node.id);
@@ -25,7 +26,7 @@
         });
 
     // Spread nodes a little wider
-    Graph.d3Force('charge').strength(-120);
+    Graph.d3Force('charge').strength(-200);
 
   </script>
 </body>

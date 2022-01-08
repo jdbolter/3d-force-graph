@@ -1,0 +1,31 @@
+{
+    "nodes": [
+        {
+          "id": "What_are_AR_and_VR?",
+          "name": "What_are_AR_and_VR?",
+          "val": 1
+        },
+        {
+          "id": "What_are_Reality_Media?",
+          "name": "What_are_Reality_Media?",
+          "val": 10
+        },
+        {
+          "id": "History_of Reality_Media",
+          "name": "History_of Reality_Media",
+          "val": 5
+        }
+
+    ],
+    "links": [
+        {
+            "source": "What_are_AR_and_VR?",
+            "target": "What_are_Reality_Media?"
+        },
+        {
+          "source": "What_are_Reality_Media?",
+          "target": "History_of Reality_Media"
+        }
+
+    ]
+}
