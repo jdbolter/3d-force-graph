@@ -61,8 +61,8 @@
           "val": 1
         },
         {
-          "id": "End of participation",
-          "name": "End of participation",
+          "id": "Presence - Loss of presence",
+          "name": "Presence - Loss of presence",
           "val": 1
         }
     ],
@@ -113,7 +113,7 @@
         },  
         {
           "source": "Cybersickness",
-          "target": "End of participation"
+          "target": "Presence - Loss of presence"
         }  
     ]
 }
