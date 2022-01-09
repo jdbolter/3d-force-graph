@@ -14,8 +14,8 @@
   <script>
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
-//        .jsonUrl('../datasets/miserables.json')
-        .jsonUrl('test.json')
+  //     .jsonUrl('../datasets/miserables.json')
+         .jsonUrl('presence-2.json')
         .nodeAutoColorBy('group')
         .nodeThreeObject(node => {
           const sprite = new SpriteText(node.id);

@@ -1,0 +1,57 @@
+{
+    "nodes": [
+        {
+          "id": "Chris Milk",
+          "name": "Chris Milk",
+          "val": 10
+        },
+        {
+          "id": "Empathy",
+          "name": "Empathy",
+          "val": 1
+        },
+        {
+          "id": "VR as ultimate medium",
+          "name": "VR as ultimate medium",
+          "val": 1
+        },  
+        {
+          "id": "Nonny de la Peña",
+          "name": "Nonny de la Peña",
+          "val": 10
+        },
+
+        {
+          "id": "VR journalism",
+          "name": "VR journalism",
+          "val": 1
+        },      
+        {
+          "id": "Recorded Audio",
+          "name": "Recorded Audio",
+          "val": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Chris Milk",
+            "target": "Empathy"
+        },
+        {
+          "source": "Chris Milk",
+          "target": "VR as ultimate medium"
+        },
+        {
+          "source": "Chris Milk",
+          "target": "Nonny de la Peña"
+        },        
+        {
+          "source": "Nonny de la Peña",
+          "target": "VR journalism"
+        },          
+        {
+          "source": "Nonny de la Peña",
+          "target": "Recorded Audio"
+        }
+    ]
+}
