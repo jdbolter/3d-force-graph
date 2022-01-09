@@ -1,10 +1,20 @@
 {
     "nodes": [
         {
+          "id": "Empathetic VR experiences",
+          "name": "Empathetic VR experiences",
+          "val": 1
+        },
+        {
+          "id": "Clouds over Sidra",
+          "name": "Clouds over Sidra",
+          "val": 1
+        },       
+        {
           "id": "Chris Milk",
           "name": "Chris Milk",
-          "val": 10
-        },
+          "val": 1
+        },        
         {
           "id": "Empathy",
           "name": "Empathy",
@@ -18,9 +28,8 @@
         {
           "id": "Nonny de la Peña",
           "name": "Nonny de la Peña",
-          "val": 10
+          "val": 1
         },
-
         {
           "id": "VR journalism",
           "name": "VR journalism",
@@ -30,21 +39,58 @@
           "id": "Recorded Audio",
           "name": "Recorded Audio",
           "val": 1
+        },
+        {
+          "id": "Pit Experiment",
+          "name": "Pit Experiment",
+          "val": 1
+        },      
+        {
+          "id": "Physiological measures",
+          "name": "Physiological measures",
+          "val": 1
+        },         
+        {
+          "id": "Cybersickness",
+          "name": "Recorded Audio",
+          "val": 1
+        },
+        {
+          "id": "Nausea",
+          "name": "Nausea",
+          "val": 1
+        },
+        {
+          "id": "End of participation",
+          "name": "End of participation",
+          "val": 1
         }
     ],
     "links": [
         {
-            "source": "Chris Milk",
-            "target": "Empathy"
+          "source": "Empathetic VR experiences",
+          "target": "Clouds over Sidra"
         },
+        {
+          "source": "Empathetic VR experiences",
+          "target": "VR journalism"
+        },
+        {
+        "source": "Empathetic VR experiences",
+        "target": "Cybersickness"
+        },
+        {
+          "source": "Clouds over Sidra",
+          "target": "Empathy"
+        },
+        {
+          "source": "Clouds over Sidra",
+          "target": "Chris Milk"
+        },       
         {
           "source": "Chris Milk",
           "target": "VR as ultimate medium"
-        },
-        {
-          "source": "Chris Milk",
-          "target": "Nonny de la Peña"
-        },        
+        },      
         {
           "source": "Nonny de la Peña",
           "target": "VR journalism"
@@ -52,6 +98,22 @@
         {
           "source": "Nonny de la Peña",
           "target": "Recorded Audio"
-        }
+        },
+        {
+          "source": "Pit Experiment",
+          "target": "Physiological measures"
+        },
+        {
+          "source": "Pit Experiment",
+          "target": "Empathetic VR experiences"
+        },
+        {
+          "source": "Cybersickness",
+          "target": "Nausea"
+        },  
+        {
+          "source": "Cybersickness",
+          "target": "End of participation"
+        }  
     ]
 }
