@@ -1,6 +1,6 @@
 {
     "nodes": [{
-            "id": "Definitions of presence",
+            "id": "1. Definitions of presence",
             "group": 2
         },
         {
@@ -59,7 +59,7 @@
             "group": 7
         },
         {
-            "id": "Measuring presence",
+            "id": "2. Measuring presence",
             "group": 2
         },
         {
@@ -119,32 +119,32 @@
         }
     ],
     "links": [{
-            "source": "Definitions of presence",
-            "target": "Measuring presence",
+            "source": "1. Definitions of presence",
+            "target": "2. Measuring presence",
             "val": 1
         },
         {
-            "source": "Definitions of presence",
+            "source": "1. Definitions of presence",
             "target": "Transportation",
             "val": 1
         },
         {
-            "source": "Definitions of presence",
+            "source": "1. Definitions of presence",
             "target": "Immersion",
             "val": 1
         },
         {
-            "source": "Definitions of presence",
+            "source": "1. Definitions of presence",
             "target": "Realism",
             "val": 1
         },
         {
-            "source": "Definitions of presence",
+            "source": "1. Definitions of presence",
             "target": "Social presence",
             "val": 1
         },
         {
-            "source": "Definitions of presence",
+            "source": "1. Definitions of presence",
             "target": "Absence of mediation",
             "val": 1
         },
@@ -179,17 +179,17 @@
             "val": 1
         },
         {
-            "source": "Measuring presence",
+            "source": "2. Measuring presence",
             "target": "Empathy",
             "val": 1
         },
         {
-            "source": "Measuring presence",
+            "source": "2. Measuring presence",
             "target": "Cybersickness",
             "val": 1
         },
         {
-            "source": "Measuring presence",
+            "source": "2. Measuring presence",
             "target": "Fear (of heights)",
             "val": 1
         },
