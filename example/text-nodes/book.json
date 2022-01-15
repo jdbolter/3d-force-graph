@@ -1,30 +1,31 @@
 {
-    "nodes": [
-        {
-          "id": "What_are_AR_and_VR?",
-          "name": "What_are_AR_and_VR?",
-          "val": 1
+    "nodes": [{
+            "id": "What_are_Reality_Media?",
+            "name": "Film, television, AR and VR are all reality media",
+            "group": 1,
+            "val": 1
         },
         {
-          "id": "What_are_Reality_Media?",
-          "name": "What_are_Reality_Media?",
-          "val": 10
+            "id": "What_are_AR_and_VR?",
+            "name": "The latest reality media",
+            "group": 1,
+            "val": 10
         },
         {
-          "id": "History_of Reality_Media",
-          "name": "History_of Reality_Media",
-          "val": 5
+            "id": "History_of Reality_Media",
+            "name": "Dates back at least to the Renaissance",
+            "group": 2,
+            "val": 5
         }
 
     ],
-    "links": [
-        {
+    "links": [{
             "source": "What_are_AR_and_VR?",
             "target": "What_are_Reality_Media?"
         },
         {
-          "source": "What_are_Reality_Media?",
-          "target": "History_of Reality_Media"
+            "source": "What_are_Reality_Media?",
+            "target": "History_of Reality_Media"
         }
 
     ]
