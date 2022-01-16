@@ -1,0 +1,121 @@
+{
+    "nodes": [{
+            "id": "Reality Media",
+            "name": "Jay David Bolter, Maria Engberg, and Blair MacIntyre",
+            "group": 1
+        },
+        {
+            "id": "What are Reality Media?",
+            "name": "Film, television, AR and VR are all reality media",
+            "group": 2
+        },
+        {
+            "id": "La Ciotat effect",
+            "name": "each reality medium has this effect",
+            "group": 2
+        },
+        {
+            "id": "What are AR and VR?",
+            "name": "the latest reality media",
+            "group": 3
+        },
+        {
+            "id": "The origins of AR and VR",
+            "name": "the sword of Damocles",
+            "group": 3
+        },        
+        {
+            "id": "The virtualiy continuum",
+            "name": "the spectrum of AR and VR",
+            "group": 3
+        },        
+        {
+            "id": "XR and the web",
+            "name": "AR and VR come together",
+            "group": 3
+        },
+        {
+            "id": "History of Reality Media",
+            "name": "dates back at least to the Renaissance",
+            "group": 4
+        },
+        {
+            "id": "3D Graphics and Sensing and Tracking",
+            "name": "key technologies for AR and VR",
+            "group": 5
+        },
+        {
+            "id": "Presence and Aura",
+            "name": "striving for the real",
+            "group": 6
+        },
+        {
+            "id": "Genres",
+            "name": "VR and AR apps belong to various media genres",
+            "group": 7
+        },
+        {
+            "id": "Privacy and Public Space",
+            "name": "AR (and VR) redefine public and private space",
+            "group": 8
+        },
+        {
+            "id": "The Future of AR and VR",
+            "name": "dates back at least to the Renaissance",
+            "group": 9
+        }
+    ],
+    "links": [{
+            "source": "Reality Media",
+            "target": "What are Reality Media?"
+        },
+        {
+            "source": "Reality Media",
+            "target": "What are AR and VR?"
+        },
+        {
+            "source": "Reality Media",
+            "target": "History of Reality Media"
+        },
+        {
+            "source": "Reality Media",
+            "target": "3D Graphics and Sensing and Tracking"
+        },
+        {
+            "source": "Reality Media",
+            "target": "Presence and Aura"
+        },
+        {
+            "source": "Reality Media",
+            "target": "Genres"
+        },
+        {
+            "source": "Reality Media",
+            "target": "Privacy and Public Space"
+        },
+        {
+            "source": "Reality Media",
+            "target": "The Future of AR and VR"
+        },
+        {
+            "source": "What are Reality Media?",
+            "target": "La Ciotat effect"
+        },
+        {
+            "source": "What are Reality Media?",
+            "target": "What are AR and VR?"
+        },
+        {
+            "source": "What are AR and VR?",
+            "target": "The origins of AR and VR"
+        },
+        {
+            "source": "What are AR and VR?",
+            "target": "The virtualiy continuum"
+        },
+        {
+            "source": "What are AR and VR?",
+            "target": "XR and the web"
+        }       
+    ]
+}
