@@ -40,6 +40,31 @@
             "group": 4
         },
         {
+            "id": "Painting",
+            "name": "key reality media from Renaissance",
+            "group": 4
+        },
+        {
+            "id": "The panorama",
+            "name": "physical 3D environment",
+            "group": 4
+        },
+        {
+            "id": "Photorealism",
+            "name": "photography replaces painting as reality medium",
+            "group": 4
+        },
+        {
+            "id": "Film and television",
+            "name": "major reality media of 20th century",
+            "group": 4
+        },
+        {
+            "id": "360-degree video",
+            "name": "related to VR",
+            "group": 4
+        },
+        {
             "id": "3D Graphics and Sensing and Tracking",
             "name": "key technologies for AR and VR",
             "group": 5
@@ -116,6 +141,26 @@
         {
             "source": "What are AR and VR?",
             "target": "XR and the web"
-        }       
+        },
+        {
+            "source": "History of Reality Media",
+            "target": "Painting"
+        },
+        {
+            "source": "History of Reality Media",
+            "target": "Photorealism"
+        },
+        {
+            "source": "History of Reality Media",
+            "target": "The panorama"
+        },
+        {
+            "source": "History of Reality Media",
+            "target": "Film and television"
+        },       
+        {
+            "source": "History of Reality Media",
+            "target": "360-degree video"
+        }   
     ]
 }
