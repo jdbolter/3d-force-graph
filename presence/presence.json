@@ -116,11 +116,95 @@
             "id": "Loss of presence",
             "name": "ironically cybersickness can destory presence",
             "group": 5
+        },
+        {
+            "id": "3. Aura, Space and Place",
+            "group": 2
+        },
+        {
+            "id": "Aura",
+            "name": "a special kind of presence",
+            "group": 3
+        },
+        {
+            "id": "Walter Benjamin",
+            "name": "defined aura for 'reproductive media'",
+            "group": 3
+        },
+        {
+            "id": "Acropolis",
+            "name": "historic site in Athens",
+            "group": 3
+        },
+        {
+            "id": "Terracotta warriors",
+            "name": "tomb of first Qi Dinasty emperor",
+            "group": 3
+        },
+        {
+            "id": "Casa Battló",
+            "name": "Gaudi building in Barcelona",
+            "group": 3
+        },
+        {
+            "id": "Space and Place",
+            "name": "dichotomy for classifing XR experiences",
+            "group": 4
+        },
+        {
+            "id": "Yi-Fu Tuan",
+            "name": "geographer identified distinction in 1970s",
+            "group": 4
+        },
+        {
+            "id": "Place",
+            "name": "(Special) places have aura",
+            "group": 4
+        },
+        {
+            "id": "Cultural Heritage",
+            "name": "e.g. Acropolis, Terracotta warriors, Casa Battló",
+            "group": 4
+        },
+        {
+            "id": "Virtual Museums",
+            "name": "weak aura",
+            "group": 4
+        },       
+        {
+            "id": "Space",
+            "name": "",
+            "group": 4
+        },
+        {
+            "id": "VR gameworlds",
+            "name": "virtual world lacking aura",
+            "group": 4
+        },
+        {
+            "id": "VR conferencing",
+            "name": "space outside of physical world",
+            "group": 4
+        },
+        {
+            "id": "Google Maps Live View",
+            "name": "AR app lacking aura",
+            "group": 4
+        },
+        {
+            "id": "AR tabletop games",
+            "name": "play anywhere, lacking aura",
+            "group": 4
         }
     ],
     "links": [{
             "source": "1. Definitions of presence",
             "target": "2. Measuring presence",
+            "val": 1
+        },
+        {
+            "source": "2. Measuring presence",
+            "target": "3. Aura, Space and Place",
             "val": 1
         },
         {
@@ -231,6 +315,81 @@
         {
             "source": "Cybersickness",
             "target": "Loss of presence",
+            "val": 1
+        },
+        {
+            "source": "3. Aura, Space and Place",
+            "target": "Aura",
+            "val": 1
+        },
+        {
+            "source": "3. Aura, Space and Place",
+            "target": "Space and Place",
+            "val": 1
+        },
+        {
+            "source": "Aura",
+            "target": "Walter Benjamin",
+            "val": 1
+        },        
+        {
+            "source": "Aura",
+            "target": "Acropolis",
+            "val": 1
+        },
+        {
+            "source": "Aura",
+            "target": "Terracotta warriors",
+            "val": 1
+        },
+        {
+            "source": "Aura",
+            "target": "Casa Battló",
+            "val": 1
+        },
+        {
+            "source": "Space and Place",
+            "target": "Yi-Fu Tuan",
+            "val": 10
+        },
+        {
+            "source": "Space and Place",
+            "target": "Place",
+            "val": 1
+        },
+        {
+            "source": "Space and Place",
+            "target": "Space",
+            "val": 1
+        },
+        {
+            "source": "Place",
+            "target": "Cultural Heritage",
+            "val": 1
+        },
+        {
+            "source": "Place",
+            "target": "Virtual Museums",
+            "val": 1
+        },
+        {
+            "source": "Space",
+            "target": "VR gameworlds",
+            "val": 1
+        },
+        {
+            "source": "Space",
+            "target": "VR conferencing",
+            "val": 1
+        },
+        {
+            "source": "Space",
+            "target": "Google Maps Live View",
+            "val": 1
+        },
+        {
+            "source": "Space",
+            "target": "AR tabletop games",
             "val": 1
         }
     ]
