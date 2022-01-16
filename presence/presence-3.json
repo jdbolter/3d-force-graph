@@ -1,31 +1,31 @@
 {
     "nodes": [{
-            "id": "3. Aura, Space and Place",
+            "id": "Measuring presence",
             "group": 2
         },
         {
-            "id": "Aura",
-            "name": "a special kind of presence",
+            "id": "Empathy",
+            "name": "as measure of presence",
             "group": 3
         },
         {
-            "id": "Walter Benjamin",
-            "name": "defined aura for 'reproductive media'",
+            "id": "Clouds over Sidra",
+            "name": "360 video shown at Davos",
             "group": 3
         },
         {
-            "id": "Acropolis",
-            "name": "historic site in Athens",
+            "id": "Chris Milk",
+            "name": "videographer",
             "group": 3
         },
         {
-            "id": "Terracotta warriors",
-            "name": "tomb of first Qi Dinasty emperor",
+            "id": "'VR as ultimate medium'",
+            "name": "Or the absence of mediation",
             "group": 3
         },
         {
-            "id": "Casa Battló",
-            "name": "Gaudi building in Barcelona",
+            "id": "Nonny de la Peña",
+            "name": "Nonny de la Peña",
             "group": 3
         },
         {
@@ -34,28 +34,13 @@
             "group": 3
         },
         {
-            "id": "Space and Place",
-            "name": "dichotomy for classifing XR experiences",
+            "id": "Pit Experiment",
+            "name": "pioneer VR experiment",
             "group": 4
         },
         {
-            "id": "Yi-Fu Tuan",
-            "name": "geographer identified distinction in 1970s",
-            "group": 4
-        },
-        {
-            "id": "Place",
-            "name": "(Special) places have aura",
-            "group": 4
-        },
-        {
-            "id": "Cultural Heritage",
-            "name": "",
-            "group": 4
-        },
-        {
-            "id": "AR games",
-            "name": "",
+            "id": "Fear (of heights)",
+            "name": "as a measure of presence",
             "group": 4
         },
         {
