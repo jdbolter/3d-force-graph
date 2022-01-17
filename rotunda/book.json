@@ -161,47 +161,47 @@
         },
         {
             "id": "AR, VR & MR Art",
-            "name": "",
+            "name": "remediates installation art and other media arts",
             "group": 7
         },
         {
             "id": "Documentary & journalism",
-            "name": "",
+            "name": "VR as 'empathy machine'",
             "group": 7
         },
         {
             "id": "Cultural heritage",
-            "name": "",
+            "name": "relates to aura and presence",
             "group": 7
         },
         {
             "id": "Healthcare & medical applications",
-            "name": "",
+            "name": "most important 'practical' applications?",
             "group": 7
         },
         {
             "id": "Architecture & design",
-            "name": "",
+            "name": "VR and AR good to visualization",
             "group": 7
         },
         {
             "id": "Product display & retail",
-            "name": "",
+            "name": "form of advertising",
             "group": 7
         },
         {
             "id": "Training & education",
-            "name": "",
+            "name": "e.g. flight simulation",
             "group": 7
         },
         {
             "id": "Navigation",
-            "name": "",
+            "name": "Google Live view",
             "group": 7
         },
         {
             "id": "Social spaces",
-            "name": "",
+            "name": "Zuckerberg's vision for Meta",
             "group": 7
         },
         {
@@ -210,10 +210,56 @@
             "group": 1
         },
         {
+            "id": "Surveillance media",
+            "name": "reconfiguring public spaces dates to 19th century",
+            "group": 8
+        },
+        {
+            "id": "Datafication of space",
+            "name": "AR and VR contribute further",
+            "group": 8
+        },
+        {
+            "id": "Virtual trespassing",
+            "name": "e.g. Pokémon Go",
+            "group": 8
+        },
+        {
             "id": "The Future of AR & VR",
-            "name": "dates back at least to the Renaissance",
+            "name": "multiple futures imagined",
             "group": 1
+        },
+        {
+            "id": "The myth of total AR",
+            "name": "like Bazin's myth of total cinema",
+            "group": 8
+        },
+        {
+            "id": "Mirror worlds & AR cloud(s)",
+            "name": "a digital model of our physical and social world",
+            "group": 8
+        },
+        {
+            "id": "The myth of total VR",
+            "name": "like Bazin's myth of total cinema",
+            "group": 8
+        },
+        {
+            "id": "The metaverse & social media",
+            "name": "Zuckerberg's and others' vision",
+            "group": 8
+        },
+        {
+            "id": "The uncanny metaverse",
+            "name": "the true metaverse only in science fiction",
+            "group": 8
+        },
+        {
+            "id": "The possible, plausible & probable",
+            "name": "a scale of futures based on likelihood",
+            "group": 8
         }
+
     ],
     "links": [{
             "source": "REALITY MEDIA",
@@ -382,7 +428,42 @@
         {
             "source": "Genres",
             "target": "Social spaces"
+        },
+        {
+            "source": "Privacy & Public Space",
+            "target": "Surveillance media"
+        },
+        {
+            "source": "Privacy & Public Space",
+            "target": "Datafication of space"
+        },
+        {
+            "source": "Privacy & Public Space",
+            "target": "Virtual trespassing"
+        },
+        {
+            "source": "The Future of AR & VR",
+            "target": "The myth of total AR"
+        },
+        {
+            "source": "The Future of AR & VR",
+            "target": "Mirror worlds & AR cloud(s)"
+        },
+        {
+            "source": "The Future of AR & VR",
+            "target": "The myth of total VR"
+        },
+        {
+            "source": "The Future of AR & VR",
+            "target": "The metaverse & social media"
+        },
+        {
+            "source": "The Future of AR & VR",
+            "target": "The uncanny metaverse"
+        },
+        {
+            "source": "The Future of AR & VR",
+            "target": "The possible, plausible & probable"
         }
-
     ]
 }
